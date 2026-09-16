@@ -1,0 +1,11 @@
+{
+  "format_version": 1,
+  "operations": [
+    {
+      "op_name": "/Slice",
+      "param_target": "outputs",
+      "param_name": "/Slice_output_0",
+      "post_process_transpose_perm": [0, 1, 3, 2]
+    }
+  ]
+}
